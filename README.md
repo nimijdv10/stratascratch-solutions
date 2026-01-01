@@ -25,19 +25,6 @@ For each problem, I:
 
 Problem statements are **intentionally paraphrased** to respect StrataScratch’s content ownership.
 
----
-
-## 📂 Repository Structure
-
-stratascratch-solutions/
-├── README.md
-├── sql/
-│ ├── easy/
-│ ├── medium/
-│ └── hard/
-├── python/
-│ ├── pandas/
-
 --- 
 
 ## ⚠️ Disclaimer
