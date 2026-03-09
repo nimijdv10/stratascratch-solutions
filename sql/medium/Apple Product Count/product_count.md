@@ -24,8 +24,8 @@ The below tables are given:
 
 First Approach :
 
-- Create the first CTE to calculate the total number of users for each language.
-- Create second CTE to calculate the total number of Apple users per language.
+- Create the first CTE to calculate the total number of users for each language. (Join + Aggregation)
+- Create second CTE to calculate the total number of Apple users per language. (Join + Aggregation)
 - In the main query, join both the tables to find desired output. Use COALESCE() function to handle the null values.
 
 Optimizng the approach:
